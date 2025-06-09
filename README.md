@@ -1,5 +1,6 @@
 # cit281-p7
-includes lab 9
+includes lab 8
+
 Learning Objectives
 
 Gain more experience working with GitHub repos
